@@ -1,0 +1,15 @@
+html, body {
+        width: 100%;
+}
+
+h1, td {
+	color: white;
+}
+
+h1 {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+td {
+	font-family: 'Source Sans Pro', sans-serif;
+}
