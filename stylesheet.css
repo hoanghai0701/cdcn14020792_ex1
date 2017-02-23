@@ -1,0 +1,26 @@
+.block-1 {
+    background-color: darkorange;
+}
+
+.block-2 {
+    background-color: blueviolet;
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.divider {
+    height: 1px;
+    width:70%;
+    display:block;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: floralwhite;
+}
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: whitesmoke;
+}
