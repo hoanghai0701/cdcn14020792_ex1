@@ -13,7 +13,7 @@
 
 .divider {
     height: 1px;
-    width:70%;
+    width:100%;
     display:block;
     margin: 9px 0;
     overflow: hidden;
@@ -22,6 +22,6 @@
 
 body {
     font-family:  "Josefin Slab", sans-serif;
-    font-size: 200%;
+    font-size: 150%;
     color: whitesmoke;
 }
