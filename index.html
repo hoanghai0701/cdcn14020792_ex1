@@ -78,7 +78,7 @@
 		<div class="slide-show-container">
             <?php for($i=1; $i<=$n; $i++) : ?>
 			    <div class="my-slides fade">
-				    <img src="<?=$img[$i-1]?>" style="width:100%">
+				    <img class="img-responsive" src="<?=$img[$i-1]?>" style="width:100%">
                     <div class="text-center"><?php echo("{$i} / {$n}") ?></div>
 			    </div>
             <?php endfor; ?>
