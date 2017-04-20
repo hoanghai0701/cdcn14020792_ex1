@@ -10,9 +10,24 @@
     background-color: darkgreen;
 }
 
+.block-4 {
+    background-color: darkmagenta;
+    height: 500px;
+}
+
 .container {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.exercise {
+   color: yellowgreen;
+}
+.exercise:hover {
+    color: yellow;
+}
+.exercise::after {
+    color: yellow;
 }
 
 .divider {
